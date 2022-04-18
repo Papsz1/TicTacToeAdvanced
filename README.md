@@ -13,6 +13,7 @@ The game is played as follows:
 The win condition is when your opponent can no longer step anywhere. 
 
 Colours:
+
 Green - You, the player
 
 Red - The bot
