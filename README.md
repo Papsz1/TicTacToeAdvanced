@@ -26,3 +26,5 @@ White - free tile
 
 
 Requires python 3.7 and up because of the usage of dataclass.
+
+The game needs to be ran from the TicTacToeAdvanced.py file.
