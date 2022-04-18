@@ -25,4 +25,4 @@ Grey - blocked tile
 White - free tile
 
 
-Needs python 3.7 and up because of the usage of dataclass.
+Requires python 3.7 and up because of the usage of dataclass.
